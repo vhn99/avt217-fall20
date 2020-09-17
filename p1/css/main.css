@@ -6,3 +6,12 @@ h2 {
   font-size: 30px;
   color: #000080;
 }
+a:visited {
+  color: #FF00FF;
+}
+a:hover {
+  color: #14b5d0;
+}
+a:active {
+  color: #14b5d0;
+}
