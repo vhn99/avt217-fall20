@@ -9,7 +9,7 @@ h2 {
 a:visited {
   color: #FF00FF;
 }
-a:unvisited link {
+a:unvisited {
   color: #ff781f
 }
 a:hover {
