@@ -7,10 +7,7 @@ h2 {
   color: #000080;
 }
 a:visited {
-  color: #FF00FF;
-}
-a:unvisited {
-  color: #ff781f
+  color: #ff781f;
 }
 a:hover {
   color: #14b5d0;
