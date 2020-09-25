@@ -4,3 +4,17 @@ body {
   <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
   font-family: 'Bebas Neue', cursive;
 }
+h1 {
+  text-transformation: uppercase;
+  letter-spacing: 1px;
+  font-size: 4rem;
+  font-weight: bold;
+}
+ul {
+  margin: 0;
+  padding 0;
+}
+li {
+  margin-bottom: 15px;
+  font-size: 2rem;
+}
