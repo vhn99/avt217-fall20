@@ -19,3 +19,9 @@ li {
   margin-bottom: 15px;
   font-size: 2rem;
 }
+a:link, a:visited {
+  color: whitesmoke;
+}
+a:hover, a:active {
+  color: #e4affd;
+}
