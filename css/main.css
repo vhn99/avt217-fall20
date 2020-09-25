@@ -1,8 +1,8 @@
 body {
-  background-color: #222851;
+  background-color: tomato;
   font-size: 16px;
-  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
-  font-family: 'Bebas Neue', cursive;
+  font-family: sans-serif;
+  margin: 50px;
 }
 h1 {
   text-transformation: uppercase;
@@ -11,6 +11,7 @@ h1 {
   font-weight: bold;
 }
 ul {
+  list-style-type: none;
   margin: 0;
   padding 0;
 }
