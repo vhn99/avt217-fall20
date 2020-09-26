@@ -14,7 +14,7 @@ h1 {
 }
 ul.a {
   list-style-type: circle;
-  color: whitesmoke
+  color: whitesmoke;
   margin: 0;
   padding 0;
 }
@@ -24,7 +24,7 @@ li {
 }
 .intro {
   font-size: 2rem;
-  letter-spacing: 1px'
-  color: blue 
-  font-weight: italic
+  letter-spacing: 1px;
+  color: blue;
+  font-weight: italic;
 }
