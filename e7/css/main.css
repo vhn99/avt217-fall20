@@ -12,19 +12,9 @@ h1 {
   color: white;
   font-weight: bold;
 }
-ul.a {
-  list-style-type: circle;
-  color: whitesmoke;
-  margin: 0;
-  padding 0;
-}
-li {
-  margin-bottom: 15px;
-  font-size: 2rem;
-}
 .intro {
   font-size: 2rem;
   letter-spacing: 1px;
-  color: blue;
+  color: white;
   font-weight: italic;
 }
