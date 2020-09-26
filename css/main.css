@@ -11,8 +11,8 @@ h1 {
   color: whitesmoke;
   font-weight: bold;
 }
-ul {
-  list-style-type: none;
+ul.a {
+  list-style-type: circle;
   margin: 0;
   padding 0;
 }
