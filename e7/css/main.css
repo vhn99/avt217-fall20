@@ -12,7 +12,8 @@ h1 {
   color: white;
   font-weight: bold;
 }
-.c1 {
+.intro {
   font-size: 25px;
-  font-weight: italics; 
+  color: tomato
+  font-weight: italics;
 }
