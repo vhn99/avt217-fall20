@@ -10,5 +10,9 @@ h1 {
   letter-spacing: 1px;
   font-size: 4rem;
   color: white;
-  font-weight: bold; 
+  font-weight: bold;
+}
+.c1 {
+  font-size: 25px;
+  font-weight: italics; 
 }
