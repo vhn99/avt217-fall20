@@ -12,6 +12,9 @@ h1 {
   color: white;
   font-weight: bold;
 }
+ul.a {
+  list-style-type: circle;
+}
 .intro {
   font-size: 25px;
   color: tomato
