@@ -12,13 +12,14 @@ h1 {
 }
 ul {
   list-style-type: circle;
-  color: #c8f902;
+  color: white;
   margin: 0;
   padding: 0;
 }
 li {
     margin-bottom: 15px;
     font-size: 2rem;
+    color: #c8f902;
 }
 .intro {
   font-size: 2rem;
