@@ -9,8 +9,12 @@ h1 {
   text-transform: uppercase;
   letter-spacing: 1px;
   font-size: 4rem;
-  color: white;
-  font-weight: bold;
+}
+ul {
+  list-style-type: circle;
+  margin: 0;
+  padding: 0;
+
 }
 .intro {
   font-size: 2rem;
