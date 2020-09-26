@@ -1,6 +1,7 @@
 body {
   background-color: #4169e1;
   font-size: 16px;
+  color: white;
   font-family: 'Josefin Slab', serif;
   margin: 50px;
 }
@@ -9,4 +10,5 @@ h1 {
   letter-spacing: 1px;
   font-size: 4rem;
   color: white;
+  font-weight: bold; 
 }
