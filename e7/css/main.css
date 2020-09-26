@@ -8,15 +8,5 @@ h1 {
   text-transform: uppercase;
   letter-spacing: 1px;
   font-size: 4rem;
-  font-weight: bold;
-}
-ul {
-
-}
-li {
-
-}
-p {
-  font-size: 16px
-  color: whitesmoke;
+  color: white;
 }
