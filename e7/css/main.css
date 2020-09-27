@@ -20,7 +20,7 @@ h1 {
 }
 ul.a {
   list-style-type: circle;
-  color: whitesmoke
+  color: whitesmoke;
   margin: 50px;
   padding 0;
 }
