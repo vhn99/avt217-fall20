@@ -22,6 +22,7 @@ ul.a {
   list-style-type: circle;
   color: whitesmoke;
   font-weight: italic;
+  font-style: italic;
   margin: 0;
   padding 0;
 }
