@@ -2,7 +2,7 @@ body {
   background-color: #581845;
   font-size: 16px;
   color: white;
-  font-family: 'Arapey', serif;
+  font-family: 'Bebas Neue', cursive;
   margin: 50px;
 }
 h1 {
@@ -12,7 +12,7 @@ h1 {
 }
 ul {
   list-style-type: circle;
-  color: whitesmoke  
+  color: whitesmoke
 }
 .intro {
   font-size: 2rem;
