@@ -10,6 +10,9 @@ h1 {
   letter-spacing: 1px;
   font-size: 4rem;
 }
+.author {
+  color: #c8f902;
+}
 .intro {
   font-size: 2rem;
   letter-spacing: 1px;
