@@ -12,11 +12,13 @@ h1 {
 }
 .author {
   color: #c8f902;
+  font-style: italic;
 }
 .intro {
   font-size: 2rem;
   letter-spacing: 1px;
   color: #c8f902;
+  font-style: bold;
 }
 ul {
   list-style-type: circle;
