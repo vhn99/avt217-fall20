@@ -12,9 +12,7 @@ h1 {
 }
 ul {
   list-style-type: circle;
-  color: whitesmoke
-  margin: 0;
-  padding 0;
+  color: whitesmoke  
 }
 .intro {
   font-size: 2rem;
