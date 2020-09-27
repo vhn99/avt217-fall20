@@ -10,9 +10,15 @@ h1 {
   letter-spacing: 1px;
   font-size: 4rem;
 }
-ul {
+ul.a {
   list-style-type: circle;
   color: whitesmoke
+  margin: 0;
+  padding 0;
+}
+li {
+  margin-bottom: 15px;
+  font-size: 2rem;
 }
 .intro {
   font-size: 2rem;
