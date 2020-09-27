@@ -21,7 +21,7 @@ h1 {
 ul.a {
   list-style-type: circle;
   color: whitesmoke;
-  font-weight: italics
+  font-weight: italic;
   margin: 0;
   padding 0;
 }
