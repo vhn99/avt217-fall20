@@ -21,11 +21,11 @@ h1 {
 ul.a {
   list-style-type: circle;
   color: whitesmoke;
+  font-weight: italics
   margin: 0;
   padding 0;
 }
 li {
   margin-bottom: 15px;
   font-size: 16px;
-  font-weight: italics
 }
