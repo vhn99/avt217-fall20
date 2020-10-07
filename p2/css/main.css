@@ -1,8 +1,9 @@
-
+h1 {
+  font-family: 'Sofia', cursive;
+}
 
 .name {
   color: #C8A2C8
-  font-family: 'Sofia', cursive;
 }
 .welcome {
   color: #C8A2C8
