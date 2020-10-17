@@ -6,7 +6,7 @@ html {
   font-size: 16px;
 }
 body {
-  background-color: #000073;
+  background-color: tomato;
   text-align: left;
   font-family: 'Bebas Neue', cursive;
   }
@@ -15,17 +15,17 @@ body {
 header {
   width: 75vw;
   margin: 25px auto;
-  background-color: yellow;
+  background-color: blue;
 }
 main {
   width: 75vw;
   margin: 25px auto;
-  background-color: whitesmoke;
+  background-color: yellow;
   display: flow-root;
 }
 .col {
-  width: 50%
-  background-color: yellow
+  width: 50%;
+  background-color: red
   float: left;
 }
 
@@ -36,14 +36,11 @@ main {
     font-family: 'Bebas Neue', cursive;
     font-weight: 700;
     text-transform: uppercase;
-    background-color: yellow;
-
-  }
+}
   h2 {
     font-size: 2rem;
     text-align: left;
     font-family: 'Bebas Neue', cursive;
-    background-color: yellow;
   }
 
 a:link, a:visited {
