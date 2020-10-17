@@ -25,7 +25,6 @@ main {
 }
 .col {
   width: 50%
-  background-color: red;
   float: left;
 }
 
@@ -36,6 +35,7 @@ main {
     font-family: 'Bebas Neue', cursive;
     font-weight: 700;
     text-transform: uppercase;
+    color: yellow;
 
   }
   h2 {
