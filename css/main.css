@@ -25,6 +25,7 @@ main {
 .col {
   width: 50%;
   float: left;
+  column-gap: 40px;
 }
 
   /****** type styles ******/
