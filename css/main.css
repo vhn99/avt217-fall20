@@ -22,6 +22,10 @@ main {
   margin: 25px auto;
   background-color: yellow;
 }
+.col {
+  width: 50%;
+  background-color: orange;
+}
 
   /****** type styles ******/
   h1 {
