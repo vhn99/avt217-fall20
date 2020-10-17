@@ -34,7 +34,6 @@ main {
     font-family: 'Bebas Neue', cursive;
     font-weight: 700;
     text-transform: uppercase;
-    color: #5fe8ff
 }
   h2 {
     font-size: 2rem;
@@ -42,6 +41,7 @@ main {
     font-family: 'Bebas Neue', cursive;
     font-weight: 700;
     text-transform: uppercase;
+    color: #5fe8ff
 }
 
 a:link, a:visited {
