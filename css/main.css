@@ -21,6 +21,7 @@ main {
   width: 75vw;
   margin: 25px auto;
   background-color: yellow;
+  display: flow-root;
 }
 .col {
   width: 50%;
