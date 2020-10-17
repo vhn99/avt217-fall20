@@ -44,6 +44,11 @@ main {
     color: #5fe8ff
 }
 
+ul {
+  list-style-type: circle;
+  color: whitesmoke
+  
+}
 a:link, a:visited {
   color: whitesmoke;
 }
