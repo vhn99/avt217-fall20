@@ -4,9 +4,9 @@
 body {
   margin: 0;
 }
-div {
-  background-color:
-  width:
-  height:
-  margin:
+.shape1 {
+  background-color: green
+  width: 100px
+  height:100px
+  border-radius: 50%
 }
