@@ -15,12 +15,12 @@ body {
 header {
   width: 75vw;
   margin: 25px auto;
-  color: yellow;
+  background-color: yellow;
 }
 main {
   width: 75vw;
   margin: 25px auto;
-  color: whitesmoke;
+  background-color: whitesmoke;
   display: flow-root;
 }
 .col {
