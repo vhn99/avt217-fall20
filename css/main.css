@@ -1,16 +1,38 @@
-body {
-  background-color: #222851;
+/****** general styles ******/
+* {
+  box-sizing: border-box;
+}
+html {
   font-size: 16px;
+}
+body {
+  background-color: #000073;
+  text-align: center;
   font-family: 'Bebas Neue', cursive;
-  margin: 50px;
-}
-h1 {
-  text-transformation: uppercase;
-  letter-spacing: 1px;
-  font-size: 4rem;
-  color: whitesmoke;
-  font-weight: bold;
-}
+  }
+
+/****** layout styles ******/
+header {
+  width: 75vw;
+  margin: 25px auto;
+  background-color: whitesmoke;
+
+  /****** type styles ******/
+  h1 {
+    font-size: 4rem;
+    text-align: left;
+    font-family: 'Sofia', cursive;
+    letter-spacing: 1px;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+  h2 {
+    font-size: 2rem;
+    text-align: left;
+    font-family: 'Sofia', cursive;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
 ul {
   list-style-type: circle;
   color: whitesmoke;
