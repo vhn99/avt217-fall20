@@ -25,6 +25,7 @@ main {
 .col {
   width: 50%;
   background-color: orange;
+  float: left;
 }
 
   /****** type styles ******/
