@@ -7,7 +7,7 @@ html {
 }
 body {
   background-color: #000073;
-  text-align: center;
+  text-align: left;
   font-family: 'Bebas Neue', cursive;
   }
 
@@ -15,17 +15,16 @@ body {
 header {
   width: 75vw;
   margin: 25px auto;
-  background-color: whitesmoke;
+  color: whitesmoke;
 }
 main {
   width: 75vw;
   margin: 25px auto;
-  background-color: yellow;
+  color: yellow;
   display: flow-root;
 }
 .col {
   width: 50%
-  background-color: red;
   float: left;
 }
 
