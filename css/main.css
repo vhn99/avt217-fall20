@@ -15,17 +15,16 @@ body {
 header {
   width: 75vw;
   margin: 25px auto;
-  background-color: yellow;
+  color: yellow;
 }
 main {
   width: 75vw;
   margin: 25px auto;
-  backfround-color: whitesmoke;
+  color: whitesmoke;
   display: flow-root;
 }
 .col {
   width: 50%
-  backfround-color: red;
   float: left;
 }
 
@@ -38,7 +37,7 @@ main {
     text-transform: uppercase;
   }
   h2 {
-    font-size: 2rem;
+    font-size: 1rem;
     text-align: left;
     font-family: 'Bebas Neue', cursive;
   }
