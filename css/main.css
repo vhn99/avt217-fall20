@@ -20,11 +20,12 @@ header {
 main {
   width: 75vw;
   margin: 25px auto;
-  background-color: whitesmoke;
+  color: whitesmoke;
   display: flow-root;
 }
 .col {
   width: 50%
+  background-color: red;
   float: left;
 }
 
@@ -41,7 +42,7 @@ main {
     font-size: 2rem;
     text-align: left;
     font-family: 'Bebas Neue', cursive;
-    color: yellow;
+    background-color: yellow;
   }
 
 a:link, a:visited {
