@@ -18,7 +18,7 @@ header {
   color: #ff7300
 }
 main {
-  width: 55vw;
+  width: 75vw;
   margin: 25px auto;
   display: flow-root;
 }
@@ -42,6 +42,7 @@ main {
     font-weight: 700;
     text-transform: uppercase;
     color: #5fe8ff
+    margin: 25px;
 }
 
 a:link, a:visited {
