@@ -35,11 +35,13 @@ main {
     font-family: 'Bebas Neue', cursive;
     font-weight: 700;
     text-transform: uppercase;
+
   }
   h2 {
-    font-size: 1rem;
+    font-size: 2rem;
     text-align: left;
     font-family: 'Bebas Neue', cursive;
+    color: yellow;
   }
 
 a:link, a:visited {
