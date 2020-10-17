@@ -17,7 +17,11 @@ header {
   margin: 25px auto;
   background-color: green;
 }
-
+main {
+  width: 75vw;
+  margin: 25px auto;
+  background-color: yellow;
+}
 
   /****** type styles ******/
   h1 {
