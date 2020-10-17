@@ -18,14 +18,13 @@ header {
   color: #ff7300
 }
 main {
-  width: 75vw;
+  width: 55vw;
   margin: 25px auto;
   display: flow-root;
 }
 .col {
   width: 50%;
   float: left;
-  column-gap: 20px;
 }
 
   /****** type styles ******/
