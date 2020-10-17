@@ -6,7 +6,6 @@ html {
   font-size: 16px;
 }
 body {
-  background-color: #003366;
   text-align: left;
   font-family: 'Bebas Neue', cursive;
   }
@@ -15,17 +14,14 @@ body {
 header {
   width: 75vw;
   margin: 25px auto;
-  background-color: green;
 }
 main {
   width: 75vw;
   margin: 25px auto;
-  background-color: yellow;
   display: flow-root;
 }
 .col {
   width: 50%;
-  background-color: orange;
   float: left;
 }
 
