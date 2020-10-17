@@ -16,19 +16,25 @@ header {
   width: 75vw;
   margin: 25px auto;
   background-color: whitesmoke;
+}
+main {
+  width: 75vw;
+  margin: 25px auto;
+  background-color: yellow;
+}
 
   /****** type styles ******/
   h1 {
     font-size: 4rem;
     text-align: left;
-    font-family: 'Sofia', cursive;
+    font-family: 'Bebas Neue', cursive;
     font-weight: 700;
     text-transform: uppercase;
   }
   h2 {
     font-size: 2rem;
     text-align: left;
-    font-family: 'Sofia', cursive;
+    font-family: 'Bebas Neue', cursive;
   }
 
 a:link, a:visited {
