@@ -15,16 +15,17 @@ body {
 header {
   width: 75vw;
   margin: 25px auto;
-  color: yellow;
+  background-color: yellow;
 }
 main {
   width: 75vw;
   margin: 25px auto;
-  color: yellow;
+  backfround-color: whitesmoke;
   display: flow-root;
 }
 .col {
   width: 50%
+  backfround-color: red;
   float: left;
 }
 
