@@ -1,18 +1,18 @@
-* {
+*{
   box-sizing; border-box;
 }
-body {
+body{
   margin: 0;
   overflow-x: hidden;
   background-color: #000033;
   color: whitesmoke;
   font-family: 'Bebas Neue', cursive;
 }
-main {
+main{
   width: 132vw;
   margin: -50px -15vw;
 }
-#p1 .shape1 {
+#p1 .shape1{
   background-color: green
   width: 100px
   height:100px
@@ -21,16 +21,14 @@ main {
   opacity: .5;
   border-radius: 50%
 }
-#p1 .shape2 {
+#p1 .shape2{
   width: 0;
   height: 0;
   border-top: 100px solid red;
   border-right: 100px solid transparent;
   float: left;
- }
-
 }
-#p1 .shape3 {
+#p1 .shape3{
   width: 0;
   height: 0;
   border: 50px solid transparent;
