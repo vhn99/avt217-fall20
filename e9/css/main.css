@@ -14,14 +14,14 @@ body {
 .shape2 {
   background-color: #ff0099;
   width: 100px;
-  height: 200px;
+  height: 500px;
   margin: 130px 25px;
   float: left;
 }
 .shape3{
   background-color: #09fbd3;
   width: 125px;
-  height: 125px;
+  height: 350px;
   margin: 80px -12.25px;
   float: left;
   opacity: .5
