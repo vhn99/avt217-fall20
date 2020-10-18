@@ -19,13 +19,12 @@ body {
   float: left;
 }
 .shape3{
-  background-color: #09fbd3;
-  width: 125px;
-  height: 350px;
-  margin: 80px;
-  border-left: 20px solid transparent;
-  border-right: 20px solid transparent;
-  border-top: 20px solid;
-  float: left;
-  opacity: .5
+ background-color: #09fbd3;
+ width: 300px;
+ padding: 1rem;
+ color: white;
+ background: #D94948;
+ border-radius: 20px;
+ margin: auto;
+ opacity: 0;
 }
