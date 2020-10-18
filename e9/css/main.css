@@ -3,10 +3,19 @@
 }
 body {
   margin: 0;
+  overflow-x: hidden;
+  background-color: black
 }
-.shape1 {
+main {
+  width: 132vw;
+  margin: -50px -15vw;
+}
+#p1 .shape1 {
   background-color: green
   width: 100px
   height:100px
+  margin: -15px;
+  float: left;
+  opacity: .5;
   border-radius: 50%
 }
