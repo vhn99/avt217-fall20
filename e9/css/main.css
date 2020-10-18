@@ -6,7 +6,7 @@ body {
 }
 .shape1 {
   background-color: #ff6600;
-  width: 200px;
+  width: 400px;
   height: 200px;
   margin: -15px;
   float: left;
@@ -15,7 +15,7 @@ body {
   background-color: #ff0099;
   width: 100px;
   height: 200px;
-  margin: 50px 25px;
+  margin: 130px 25px;
   float: left;
 }
 .shape3{
@@ -24,5 +24,5 @@ body {
   height: 125px;
   margin: 80px -12.25px;
   float: left;
-  opacity: .10
+  opacity: .5
 }
