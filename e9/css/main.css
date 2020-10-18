@@ -4,7 +4,9 @@
 body {
   margin: 0;
   overflow-x: hidden;
-  background-color: black
+  background-color: #000033;
+  color: whitesmoke;
+  font-family: 'Bebas Neue', cursive;
 }
 main {
   width: 132vw;
