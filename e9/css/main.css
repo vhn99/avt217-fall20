@@ -1,3 +1,13 @@
+* {
+  box-sizing: border-box;
+}
 body {
-  background-color: #B19CD9;
+  margin: 0;;
+}
+div {
+  background-color: yellow;
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+  float: left;
 }
