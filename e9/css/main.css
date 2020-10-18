@@ -4,8 +4,22 @@
 body {
   margin: 0;;
 }
-div {
-  background-color: yellow;
+.shape1 {
+  background-color: #ff6600;
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+  float: left;
+}
+.shape2 {
+  background-color: #ff0099;
+  width: 200px;
+  height: 200px;
+  margin: 50px;
+  float: left;
+}
+.shape3{
+  background-color: #09fbd3;
   width: 200px;
   height: 200px;
   margin: 50px;
