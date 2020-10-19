@@ -62,16 +62,16 @@ main {
   transform: rotate(45deg);
 }
 .shape7 {
-  width: 150px;
-  height: 100px;
+  width: 350px;
+  height: 200px;
   transform: skew(20deg);
   background-color: orange;
   margin: -15px -3.25px;
   float: left;
 }
 .shape8 {
-  width: 100px;
-  height: 100px;
+  width: 300px;
+  height: 300px;
   transform: skew(50deg);
   background-color: purple;
   margin: -15px -7.5px;
