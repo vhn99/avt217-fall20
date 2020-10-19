@@ -68,22 +68,22 @@ main {
   background-color: orange;
   margin: -15px -5.25px;
   float: left;
+  border: 4px solid blue;
 }
 .shape8 {
-  margin: 50px 0;
-  position: relative;
-  display: block;
-  color: yellow;
-  width: 200px;
-  height: 200px;
-  transform: rotate(35deg);
+  background-color: #ff0099;
+  width: 100px;
+  height: 100px;
+  margin: -15px;
   float: left;
+  border-radius: 50%;
 }
 .shape9 {
-  width: 500px;
-  height: 500px;
-  border-top: 100px solid red;
-  border-left: 100px solid transparent;
-  margin: -15px -5.25px;
+  background-color: green;
+  width: 200px;
+  height: 200px;
+  margin: -15px;
   float: left;
+  border-radius: 50%;
+
 }
