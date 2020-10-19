@@ -32,3 +32,12 @@ main {
   border: 2px solid purple;
   transform: rotate(45deg);
 }
+.shape4{
+  height: 150px;
+  width: 150px;
+  background-color: #0074d9;
+  border-radius: 80px;
+  margin-bottom: 30px;
+  float: left;
+  margin-right: 20px;
+}
