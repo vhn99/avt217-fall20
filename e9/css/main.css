@@ -144,16 +144,16 @@ main {
 }
 .shape16 {
   background-color: #a4da65;
-  width: 100px;
-  height: 100px;
+  width: 400px;
+  height: 400px;
   margin: -15px -7.5px;
   float: left;
   transform: skew(45deg);
 }
 .shape17 {
   background-color: #e0082d;
-  width: 150px;
-  height: 150px;
+  width: 400px;
+  height: 400px;
   margin: -15px -9.5px;
   float: left;
   border-radius: 50%;
