@@ -21,7 +21,6 @@ main {
   height: 200px;
   margin: -15px;
   float: left;
-  transform: rotate(45deg);
   opacity: .5;
   border-radius: 50%;
 }
@@ -32,4 +31,5 @@ main {
   margin: -15px -3.25px;
   float: left;
   border: 2px solid purple;
+  transform: rotate(45deg);
 }
