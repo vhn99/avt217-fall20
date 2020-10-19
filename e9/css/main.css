@@ -103,6 +103,7 @@ main {
   float: left;
   border-radius: 50%;
   opacity: .5;
+  border: 2px solid black;
 }
 .shape12 {
   background-color: #ff5733;
@@ -112,6 +113,7 @@ main {
   float: left;
   border-radius: 50%;
   opacity: .5;
+  border: 2px solid black;
 }
 .shape13 {
   background-color: #ffc300;
@@ -131,4 +133,5 @@ main {
   float: left;
   border-radius: 50%;
   opacity: .5;
+  border: 2px solid black;
 }
