@@ -140,7 +140,7 @@ main {
   background-color: #a4da65;
   width: 400px;
   height: 100px;
-  margin: -15px -.25;
+  margin: -15px;
   float: left;
 }
 
@@ -154,8 +154,8 @@ main {
 }
 .shape17 {
   background-color: #e0082d;
-  width: 200px;
-  height: 400px;
+  width: 150px;
+  height: 150px;
   margin: -15px;
   float: left;
   border-radius: 50%;
