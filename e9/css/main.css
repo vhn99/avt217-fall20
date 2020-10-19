@@ -4,6 +4,10 @@
 body {
   margin: 0;;
 }
+main {
+  width: 132vw;
+  margin: -50px -15vw;
+}
 .shape1 {
   background-color: #ff6600;
   width: 200px;
