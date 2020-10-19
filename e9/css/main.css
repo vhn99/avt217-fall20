@@ -17,9 +17,9 @@ main {
 }
 .shape2 {
   background-color: #ff0099;
-  width: 300px;
+  width: 200px;
   height: 200px;
-  margin: -15px;
+  margin: -5px;
   float: left;
   opacity: .5;
   border-radius: 50%;
