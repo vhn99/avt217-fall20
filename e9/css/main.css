@@ -95,3 +95,28 @@ main {
   float: left;
   opacity: .5;
 }
+.shape11 {
+  background-color: #581845;
+  width: 100px;
+  height: 100px;
+  margin: -15px;
+  float: left;
+  border-radius: 50%;
+}
+.shape12 {
+  background-color: #ff5733;
+  width: 200px;
+  height: 200px;
+  margin: -25px;
+  float: left;
+  border-radius: 50%;
+  opacity: .5;
+}
+.shape13 {
+  background-color: #ffc300;
+  width: 300px;
+  height: 300px;
+  margin: -35px;
+  float: left;
+  border-radius: 50%;
+}
