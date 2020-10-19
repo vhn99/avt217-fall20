@@ -66,7 +66,7 @@ main {
   height: 100px;
   transform: skew(20deg);
   background-color: orange;
-  margin: -15px -5.25px;
+  margin: -15px -3.25px;
   float: left;
 }
 .shape8 {
@@ -74,7 +74,7 @@ main {
   height: 100px;
   transform: skew(50deg);
   background-color: purple;
-  margin: -15px -5.25px;
+  margin: -15px -7.5px;
   float: left;
 }
 .shape9 {
