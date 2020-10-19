@@ -149,6 +149,7 @@ main {
   margin: -15px -7.5px;
   float: left;
   transform: skew(45deg);
+    border: 2px solid black;
 }
 .shape17 {
   background-color: #e0082d;
@@ -158,5 +159,4 @@ main {
   float: left;
   border-radius: 50%;
   opacity: .5;
-  border: 2px solid black;
 }
