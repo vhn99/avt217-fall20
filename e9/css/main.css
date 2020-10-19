@@ -60,5 +60,30 @@ main {
   float: left;
   border: 2px solid purple;
   transform: rotate(45deg);
-
+}
+.shape7 {
+  width: 150px;
+  height: 100px;
+  transform: skew(20deg);
+  background-color: orange;
+  margin: -15px -5.25px;
+  float: left;
+}
+.shape8 {
+  margin: 50px 0;
+  position: relative;
+  display: block;
+  color: yellow;
+  width: 200px;
+  height: 200px;
+  transform: rotate(35deg);
+  float: left;
+}
+.shape9 {
+  width: 50px;
+  height: 50px;
+  border-top: 100px solid red;
+  border-left: 100px solid transparent;
+  margin: -15px -5.25px;
+  float: left;
 }
