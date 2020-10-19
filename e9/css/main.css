@@ -148,6 +148,7 @@ main {
   height: 100px;
   margin: -15px -7.5px;
   float: left;
+  transform: skew(45deg);
 }
 .shape17 {
   background-color: #e0082d;
