@@ -10,15 +10,15 @@ main {
 }
 .shape1 {
   background-color: #ff6600;
-  width: 200px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
   margin: -5px;
   float: left;
 }
 .shape2 {
   background-color: #ff0099;
-  width: 200px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
   margin: -15px;
   float: left;
   opacity: .5;
