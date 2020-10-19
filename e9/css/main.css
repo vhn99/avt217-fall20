@@ -135,3 +135,10 @@ main {
   opacity: .5;
   border: 2px solid black;
 }
+.shape15 {
+background-color: #900c3f;
+width: 100px;
+height: 100px;
+margin: -15px -5.25px;
+float: left;
+}
