@@ -137,14 +137,13 @@ main {
 }
 .shape15 {
   background-color: #55bed7;
-  width: 0;
-  height: 0;
-  margin: -15px -7.5px;
+  background-color: #a4da65;
+  width: 400px;
+  height: 100px;
+  margin: -15px -.25;
   float: left;
-  transform: skewY(20deg);
-  border-left: 50px solid transparent;
-  border-left: 50px solid transparent;
-  border-bottom: 100px solid #0b205c;
+}
+
 }
 .shape16 {
   background-color: #a4da65;
@@ -155,7 +154,7 @@ main {
 }
 .shape17 {
   background-color: #e0082d;
-  width: 400px;
+  width: 200px;
   height: 400px;
   margin: -15px;
   float: left;
