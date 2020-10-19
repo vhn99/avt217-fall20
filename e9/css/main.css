@@ -68,6 +68,7 @@ main {
   background-color: orange;
   margin: -15px -8.25px;
   float: left;
+  opacity: .5;
 }
 .shape8 {
   width: 200px;
