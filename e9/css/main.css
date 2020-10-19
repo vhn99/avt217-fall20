@@ -139,7 +139,7 @@ main {
 background-color: #900c3f;
 width: 300px;
 height: 300px;
-margin: 15px -9.5px;
+margin: -15px -3.25px;
 float: left;
 transform: rotate(45deg);
 }
