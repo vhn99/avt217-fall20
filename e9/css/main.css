@@ -15,17 +15,17 @@ body {
   background-color: #ff0099;
   width: 200px;
   height: 200px;
-  margin: -5px -2.5px;
+  margin: -15px;
   float: left;
-  transform: rotate(90deg);
+  transform: rotate(45deg);
   opacity: .5;
+  border-radius: 50%;
 }
 .shape3{
   background-color: #09fbd3;
   width: 100px;
   height: 100px;
-  margin: -5px -1.25px;
+  margin: -15px -3.25px;
   float: left;
-  border-radius: 50%;
-  opacity: .5;
+  border: 2px solid purple;
 }
