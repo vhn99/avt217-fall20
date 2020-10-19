@@ -137,9 +137,9 @@ main {
 }
 .shape15 {
 background-color: #900c3f;
-width: 200px;
-height: 200px;
-margin: -15px -5.25px;
+width: 300px;
+height: 300px;
+margin: 15px;
 float: left;
 transform: rotate(45deg);
 }
