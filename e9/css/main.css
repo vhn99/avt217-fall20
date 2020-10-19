@@ -111,6 +111,7 @@ main {
   margin: -15px;
   float: left;
   border-radius: 50%;
+  opacity: 2;
 }
 .shape13 {
   background-color: #ffc300;
