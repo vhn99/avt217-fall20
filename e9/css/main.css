@@ -141,4 +141,5 @@ width: 100px;
 height: 100px;
 margin: -15px -5.25px;
 float: left;
+transform: rotate(4deg);
 }
