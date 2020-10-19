@@ -124,7 +124,7 @@ main {
   background-color: orange;
   width: 400px;
   height: 400px;
-  margin: 15px;
+  margin: -15px;
   float: left;
   border-radius: 50%;
 }
