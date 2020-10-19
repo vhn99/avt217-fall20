@@ -111,7 +111,7 @@ main {
   margin: -15px;
   float: left;
   border-radius: 50%;
-  opacity: 2;
+  opacity: .2;
 }
 .shape13 {
   background-color: #ffc300;
@@ -120,6 +120,7 @@ main {
   margin: -15px;
   float: left;
   border-radius: 50%;
+  opacity: .5;
 }
 .shape14 {
   background-color: orange;
@@ -128,4 +129,5 @@ main {
   margin: -15px;
   float: left;
   border-radius: 50%;
+  opacity: .5;
 }
