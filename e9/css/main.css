@@ -68,7 +68,6 @@ main {
   background-color: orange;
   margin: -15px -5.25px;
   float: left;
-  border: 10px solid black;
 }
 .shape8 {
   width: 100px;
@@ -77,7 +76,6 @@ main {
   background-color: purple;
   margin: -15px -5.25px;
   float: left;
-  border: 10px solid yellow;
 }
 .shape9 {
   background-color: green;
