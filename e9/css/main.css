@@ -99,7 +99,7 @@ main {
   background-color: #581845;
   width: 100px;
   height: 100px;
-  margin: -15px;
+  margin: 15px;
   float: left;
   border-radius: 50%;
 }
@@ -107,7 +107,7 @@ main {
   background-color: #ff5733;
   width: 200px;
   height: 200px;
-  margin: -15px;
+  margin: -5px;
   float: left;
   border-radius: 50%;
   opacity: .5;
@@ -116,7 +116,7 @@ main {
   background-color: #ffc300;
   width: 300px;
   height: 300px;
-  margin: -15px;
+  margin: 5px;
   float: left;
   border-radius: 50%;
 }
