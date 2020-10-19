@@ -33,20 +33,24 @@ main {
   transform: rotate(45deg);
 }
 .shape4{
-  background-color: #bc85a3;
+  vertical-align: middle;
+  border-bottom: 31px solid red;
+  border-left: 25px solid transparent;
+  height: 0;
+  width: 150px;
+  margin: -15px -5.25px;
+  float: left;
+  border: 2px solid purple;
+  transform: rotate(45deg);
+}
+.shape5{
+  background-color: #9799ba;
   width: 100px;
   height: 100px;
   margin: -15px -5.25px;
   float: left;
   border: 2px solid purple;
-  transform: rotate(60deg);
-}
-.shape5{
-  border-bottom: 50px solid #555;
-  border-left: 25px solid transparent;
-  border-right: 25px solid transparent;
-  height: 0;
-	width: 125px;
+  transform: rotate(45deg);
 }
 .shape6 {
   background-color: #feadb9;
