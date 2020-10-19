@@ -139,21 +139,21 @@ main {
   background-color: #55bed7;
   width: 400px;
   height: 100px;
-  margin: -15px;
+  margin: -15px -3.25px;
   float: left;
 }
 .shape16 {
   background-color: #a4da65;
   width: 100px;
   height: 100px;
-  margin: -5px;
+  margin: -15px -7.5px;
   float: left;
 }
 .shape17 {
   background-color: #e0082d;
   width: 150px;
   height: 150px;
-  margin: -15px;
+  margin: -15px -9.5px;
   float: left;
   border-radius: 50%;
   opacity: .5;
