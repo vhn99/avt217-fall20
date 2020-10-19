@@ -41,3 +41,19 @@ main {
   float: left;
   margin-right: 20px;
 }
+.shape5{
+  background-color: #09fbd3;
+  width: 100px;
+  height: 100px;
+  margin: -15px -5.25px;
+  float: left;
+  border: 2px solid purple;
+  transform: rotate(45deg);
+}
+.shape6 {
+  background-color: #ff6600;
+  width: 100px;
+  height: 100px;
+  margin: -5px;
+  float: left;
+}
