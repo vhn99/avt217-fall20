@@ -89,7 +89,7 @@ main {
 .shape10 {
   width: 200px;
   height: 150px;
-  transform: skew(45deg);
+  transform: skew(180deg);
   background-color: blue;
   margin: -15px -3.25px;
   float: left;
