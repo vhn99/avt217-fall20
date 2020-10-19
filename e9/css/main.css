@@ -71,8 +71,8 @@ main {
   border: 10px solid black;
 }
 .shape8 {
-  width: 500px;
-  height: 500px;
+  width: 100px;
+  height: 100px;
   transform: skew(50deg);
   background-color: purple;
   margin: -15px -5.25px;
