@@ -22,7 +22,7 @@ main {
   margin: 25px auto;
   display: flow-root;
 }
-.col {
+#container {
   width: 25%;
   float: left;
 }
