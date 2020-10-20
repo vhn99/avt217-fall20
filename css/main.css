@@ -47,7 +47,7 @@ main {
 ul {
   list-style-type: circle;
   color: whitesmoke;
-  padding-left: 0;
+  margin-left: 15px;
 }
 a:link, a:visited {
   color: whitesmoke;
