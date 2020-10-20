@@ -23,7 +23,7 @@ main {
   display: flow-root;
 }
 .col {
-  width: 50%;
+  width: 25%;
   float: left;
 }
 
