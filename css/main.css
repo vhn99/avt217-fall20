@@ -24,7 +24,6 @@ main {
 }
 .col {
   width: 50%;
-  column-gap: 9px;
   float: left;
 }
 
