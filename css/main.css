@@ -67,4 +67,10 @@ a:visited
   .col {
     width: 50%;
   }
+  header {
+    width: 90vw;
+  }
+  h1 {
+    font-size: 3rem;
+  }
 }
