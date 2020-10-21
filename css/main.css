@@ -65,7 +65,7 @@ a:visited
 /****** mdeia queries ******/
 @media screen and (max-width: 900px) {
   .col {
-    width: 50%;
+    width: 100%;
   }
   header {
     width: 90vw;
