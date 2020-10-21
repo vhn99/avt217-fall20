@@ -25,6 +25,10 @@ main {
 #container {
   width: 100%;
 }
+.col {
+  width:25%;
+  float: left;
+}
 
   /****** type styles ******/
   h1 {
@@ -72,4 +76,5 @@ main {
 }
 h1 {
   font-size: 3rem;
+}
 }
