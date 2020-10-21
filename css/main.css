@@ -65,16 +65,16 @@ a:visited
 /****** mdeia queries ******/
 @media screen and (max-width: 900px) {
   .col {
-    width: 100%
+    width: 100%;
     margin-bottom: 50px;
   }
-header {
-  width: 90vw;
-}
-main {
-  width: 90vw;
-}
-h1 {
-  font-size: 3rem;
+  header {
+    width: 90vw;
+  }
+  main {
+    width: 90vw;
+  }
+  h1 {
+    font-size: 3rem;
   }
 }
