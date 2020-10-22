@@ -6,6 +6,8 @@ body {
 }
 .board {
   width: 800px;
+  display: flow-flow-root;
+  margin: 50px auto 0;
 }
 .red, .black {
   width: 100px;
