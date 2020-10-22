@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin:0;
+}
+
+.red, .black {
+  width: 100px;
+  height: 100px;
+}
+.red {
+  background-color: tomato;
+}
+.red {
+  background-color: #333333;
+}
