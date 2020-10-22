@@ -4,6 +4,9 @@
 body {
   margin:0;
 }
+.board {
+  width: 800px;
+}
 .red, .black {
   width: 100px;
   height: 100px;
