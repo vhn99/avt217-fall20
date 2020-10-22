@@ -8,6 +8,7 @@ body {
 .red, .black {
   width: 100px;
   height: 100px;
+  float: left;
 }
 .red {
   background-color: tomato;
