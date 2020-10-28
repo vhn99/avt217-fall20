@@ -20,3 +20,35 @@ body {
 .black {
   background-color: #333333;
 }
+.board2 {
+  width: 800px;
+  display: flow-root;
+  margin: 50px auto 0px;
+}
+.top {
+  background-color: blue;
+  width: 800px;
+  height: 20px;
+  float: left;
+  margin: 10px 0px 10px 0px;
+}
+.column1 {
+  background-color: blue;
+  width: 260px;
+  height: 600px;
+  float: left;
+}
+.column2 {
+  background-color: blue;
+  width: 260px;
+  height: 600px;
+  float: left;
+  margin: 10px 0px 10px 0px;
+}
+.bottom {
+  background-color: blue;
+  width: 800px;
+  height: 100px;
+  float: left;
+  margin: 10px 0px 10px 0px;
+}
