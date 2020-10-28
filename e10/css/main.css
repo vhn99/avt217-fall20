@@ -52,6 +52,17 @@ body {
   float: left;
   margin: 10px 0px 0px 0px;
 }
+.board3 {
+  width: 800px;
+  display: flow-root;
+  margin: 50px 20px 0px;
+}
+.header {
+  background-color: blue;
+  width: 800px;
+  height: 120px;
+  float: left;
+}
 .body {
   background-color: green;
   width: 600px;
