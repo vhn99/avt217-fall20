@@ -4,9 +4,19 @@ body {
 }
 h1 {
   font-family: 'Sofia', cursive;
+  text-align: center;
+  font-size: 40px;
 }
 h2 {
   font-family: 'Sofia', cursive;
+  text-align: center;
+  font-size: 40px;
+}
+.header {
+  background-color: purple;
+  width: 100%;
+  height: 100%;
+  display: flow-root;
 }
 
 .name {
@@ -20,12 +30,4 @@ h2 {
 }
 .visit {
   color: #C8A2C8
-}
-.navigation {
-  width: 110%;
-  height: 115px;
-  background-color: #C8A2C8
-  margin: -10px;
-  flex-direction: row;
-  display: flex;
 }
