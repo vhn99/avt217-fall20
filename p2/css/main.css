@@ -21,3 +21,11 @@ h2 {
 .visit {
   color: #C8A2C8
 }
+.navigation {
+  width: 110%;
+  height: 115px;
+  background-color: #C8A2C8
+  margin: -10px;
+  flex-direction: row;
+  display: flex;
+}
