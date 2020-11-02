@@ -57,4 +57,11 @@ h2 {
 }
 .logo {
   display: inline-block;
+  width: 70px;
+  height: 100px;
+  margin-top: 12px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  text-align: left;
+  float: left;
 }
