@@ -55,3 +55,6 @@ h2 {
 .homepage img {
   max-width: 100%;
 }
+.logo {
+  display: inline-block;
+}
