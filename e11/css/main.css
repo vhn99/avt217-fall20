@@ -11,13 +11,13 @@ body {
   top: 50%;
   position: absolute;
   transform: translate(-50%, -50%);
-  background: #fff;
+  background: #ff4e50;
   width: 208px;
   height: 198px;
   border-radius: 35% 35% 41% 41% / 42% 42% 75% 75%;
 }
 .logo:before{
-    background: #fff;
+    background: #ff4e50;
     content: "";
     width: 55px;
     height: 55px;
