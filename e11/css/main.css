@@ -17,7 +17,7 @@ body {
   border-radius: 50%;
 }
 .logo:before{
-    background: #ff4e50;
+    background: #green;
     content: "";
     width: 50px;
     height: 50px;
