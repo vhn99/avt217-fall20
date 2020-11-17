@@ -16,11 +16,11 @@ body {
   height: 198px;
   border-radius: 50%;
 }
-.down-arrow {
-  border-color: black transparent;
-  border-style: solid;
-  border-width: 20px 20px 0px 20px;
-  height: 0px;
-	width: 0px;
-  position: absolute;
+.logo:before{
+    background: #green;
+    content: "";
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    margin: -51px 0 0 100px;
   }
