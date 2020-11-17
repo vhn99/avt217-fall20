@@ -4,7 +4,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: blue;
+  background: #000;
 }
 .logo {
   left: 50%;
@@ -17,7 +17,7 @@ body {
   border-radius: 50%;
 }
 .logo:before{
-    background: #green;
+    background: #ff4e50;
     content: "";
     width: 50px;
     height: 50px;
