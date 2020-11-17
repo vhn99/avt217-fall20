@@ -14,7 +14,7 @@ body {
   background: #ff4e50;
   width: 208px;
   height: 198px;
-  border-radius: 35% 35% 41% 41% / 42% 42% 75% 75%;
+  border-radius: 50%;
 }
 .logo:before{
     background: #ff4e50;
@@ -26,21 +26,3 @@ body {
     border-radius: 100px 0;
     z-index: 5;
   }
-.logo:after{
-  background: #000;
-  content: "";
-  width: 90px;
-  height: 90px;
-  position: absolute;
-  margin: 28px 0 0 174px;
-  border-radius: 50%;
-  z-index: 4;
-  box-shadow: -127px -109.5 0 #000,
-    -118px -107px 0 #000,
-    -115.5px -102.5px 0 #000,
-    -105.5px -109.5px 0 #000,
-    -105px -109.5px 0 #000,
-    -129px 166px 0 #000,
-    -107.5px 166px 0 #000,
-    -119px 161px 0 #000;
-}
