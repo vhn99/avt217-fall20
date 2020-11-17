@@ -6,7 +6,7 @@ body {
   padding: 0;
   background: blue;
 }
-.orange {
+.logo {
   left: 50%;
   top: 50%;
   position: absolute;
@@ -16,7 +16,7 @@ body {
   height: 198px;
   border-radius: 50%;
 }
-.stem {
+.logo:before{
     background: #green;
     content: "";
     width: 50px;
