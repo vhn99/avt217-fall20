@@ -88,7 +88,7 @@ h2 {
   .homepage img {width: 358px;}
 
   .image_pigeons img {
-    width: 100;
+    width: 100%;
   }
 
   .image_water, .image_castle, .image_city, .image_romance, .image_visit {
